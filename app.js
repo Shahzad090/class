@@ -13,4 +13,4 @@
 
 let a = ["basit", "mubashir", "raza", "hamza"]
 let [firstName, secondName, thirdName, forthName] = a;
-console.log(firstName, secondName, thirdName, );
+console.log(firstName, secondName, );
