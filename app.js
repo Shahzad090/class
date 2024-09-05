@@ -9,8 +9,5 @@
 
 // let a = ["basit", "mubashir", "raza", "hamza"]
 // let [firstName, secondName, thirdName, forthName] = a;
-// console.log(firstName, secondName, thirdName, thirdName);
+// console.log(firstName, secondName, thirdName, thirdName, forthName);
 
-let a = ["basit", "mubashir", "raza", "hamza"]
-let [firstName, secondName, thirdName, forthName] = a;
-console.log(firstName, secondName,thirdName);
